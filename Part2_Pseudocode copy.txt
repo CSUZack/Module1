@@ -1,0 +1,5 @@
+num1 = user entered integer
+num2 = user entered integer
+
+output num1 * num2
+output num1 / num2
